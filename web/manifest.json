@@ -1,6 +1,6 @@
 {
-    "name": "myapp",
-    "short_name": "myapp",
+    "name": "llps",
+    "short_name": "llps",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
